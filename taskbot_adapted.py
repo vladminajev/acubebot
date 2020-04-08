@@ -22,7 +22,7 @@ from random import randint
 
 db = DBHelper()
 
-TOKEN = "insertTokenHere"
+TOKEN = "1166872784:AAGUnRhSCIxgPnBv13kQz8bU79zfNdP1tQA"
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 
 # Download the content from an url and returns a string:
